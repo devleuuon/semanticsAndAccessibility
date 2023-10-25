@@ -1,7 +1,7 @@
 <h1 align="center"> Treine.me </h1>
 
 <p align="center">
-Defasio 2 de correção de bugs, promovido pela Rocketseat para ensino de tecnologias WEB.
+Defasio de correção com tags semânticas, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Defasio 2 de correção de bugs, promovido pela Rocketseat para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="projeto treine.me" src="./Desafio - Intermediário/images/readme.png" width="100%">
+  <img alt="projeto treine.me" src="./images/readme.png" width="100%">
 </p>
 
 [🔗 Clique aqui para acessar](https://devleuuon.github.io/challenge2/)
