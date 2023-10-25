@@ -21,7 +21,7 @@ Defasio de correção com tags semânticas, promovido pela Rocketseat para ensin
   <img alt="projeto treine.me" src="./images/readme.png" width="100%">
 </p>
 
-[🔗 Clique aqui para acessar](https://devleuuon.github.io/challenge2/)
+[🔗 Clique aqui para acessar](https://devleuuon.github.io/semanticsAndAccessibility/)
 
 ## 🚀 Tecnologias
 
